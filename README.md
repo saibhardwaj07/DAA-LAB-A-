@@ -92,7 +92,7 @@ This project implements the Matrix Chain Multiplication algorithm using Python a
 
 
 
-# Coin Change Problem Using Dynamic Programming
+# practical-7 Coin Change Problem Using Dynamic Programming
 
 This project provides a Python solution to the Coin Change Problem using Dynamic Programming. The program determines the minimum number of coins required to make a given target amount from a set of available coin denominations.
 
