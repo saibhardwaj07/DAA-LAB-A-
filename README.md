@@ -67,6 +67,30 @@ Conclusion
 
 Both methods produce the same factorial result. The iterative method uses less memory, while the recursive method demonstrates the use of recursion.
 
+# practical-5: Knapsack Problem
+This project is a Python program that solves the 0/1 Knapsack Problem using Dynamic Programming. The program takes the number of items, their weights, values, and the maximum capacity of the knapsack as input. It then finds the maximum value that can be carried without exceeding the given capacity. The program also displays the selected items and the execution time. This project is simple and useful for understanding the basic concept of Dynamic Programming in Python.
+
+How to Run
+
+To run the program, make sure Python 3 is installed on your computer. Save the code in a file named knapsack.py and run it using the command python knapsack.py in the terminal.
+
+Example
+
+For 4 items with weights 2, 3, 4, 5 and values 3, 4, 5, 6, with a knapsack capacity of 5, the maximum value is 7 and items 1 and 2 are selected.
+
+Conclusion
+
+This project demonstrates how Dynamic Programming can be used to solve the 0/1 Knapsack Problem. It helps in finding the best combination of items while keeping the total weight within the given capacity. The project is simple and helpful for learning Python and Dynamic Programming.
+
+# PRACTICAL-6 MATRIX CHAIN MULTIPLICATION
+Matrix Chain Multiplication is a Dynamic Programming problem that finds the most efficient way to multiply a sequence of matrices.
+
+The main objective is to determine the optimal order of matrix multiplication that minimizes the total number of scalar multiplications. The order of the matrices remains unchanged; only the placement of parentheses is optimized.
+
+This project implements the Matrix Chain Multiplication algorithm using Python and Dynamic Programming.
+
+
+
 
 # Coin Change Problem Using Dynamic Programming
 
