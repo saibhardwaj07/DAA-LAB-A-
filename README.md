@@ -113,3 +113,12 @@ If the target amount can be formed, the program returns the minimum number of co
 * **Space Complexity:** O(amount)
 
 This project is useful for learning Dynamic Programming concepts, practicing algorithm design, and preparing for coding interviews.
+
+# PRACT8-(DAA)
+SUMMARY :
+
+Graph traversal is an important technique used to visit all the vertices of a graph systematically. DFS explores a graph deeply by visiting a vertex and then recursively visiting its unvisited neighbors. BFS explores the graph level by level using a queue data structure. Both DFS and BFS have a time complexity of O(V + E), where V is the number of vertices and E is the number of edges. These searching techniques are widely used in path finding, network analysis, and many other computer science applications.
+
+CONCLUSION :
+
+The graph traversal program successfully implements both DFS and BFS searching techniques using Python. DFS uses a depth-based approach, while BFS visits vertices level by level. Both methods efficiently traverse the vertices and edges of a graph. The program accepts user input, making it flexible for different graph structures and starting vertices. Thus, DFS and BFS are useful and fundamental techniques for solving various graph-based problems.
